@@ -106,7 +106,7 @@ The system follows a modular pipeline:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/sankalp04841/voicecontrolledlocalagent.git
 cd voice-ai-agent
 ```
 2. Create Virtual Environment
